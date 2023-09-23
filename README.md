@@ -9,5 +9,9 @@ application of these web
 --> easy to handle
 -->Totally Responsive
 
+
+click here to see the project
+https://git0chetan.github.io/Quote_Generator/
+
 ![Alt text](img/Quote_Generator.png)
 
