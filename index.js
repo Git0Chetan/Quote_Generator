@@ -24,7 +24,9 @@ const getnewQuotes=()=>{
     
 };
 
-const api="https://type.fit/api/quotes";
+// const api="https://type.fit/api/quotes";
+const api="quote.json";
+
 
 
 const getQuotes=async()=>{
